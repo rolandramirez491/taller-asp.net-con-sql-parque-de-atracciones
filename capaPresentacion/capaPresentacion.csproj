@@ -67,12 +67,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Atracciones.aspx" />
     <Content Include="GestionJuego.aspx" />
     <Content Include="default.aspx" />
     <Content Include="GestionSesion.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Atracciones.aspx.cs">
+      <DependentUpon>Atracciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Atracciones.aspx.designer.cs">
+      <DependentUpon>Atracciones.aspx</DependentUpon>
+    </Compile>
     <Compile Include="GestionJuego.aspx.cs">
       <DependentUpon>GestionJuego.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

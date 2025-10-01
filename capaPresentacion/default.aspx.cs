@@ -55,13 +55,7 @@ namespace capaPresentacion
 
         protected void btnGuardarA_Click(object sender, EventArgs e)
         {
-            Atraccion.InsertarA(int.Parse(txtCodA.Text), txtNombA.Text, int.Parse(txtPrecio.Text), int.Parse(txtCapacidad.Text));
-            lblcheck.Text = "Atraccion guardada con exito!";
-            txtCodA.Text = "";
-            txtNombA.Text = "";
-            txtPrecio.Text = "";
-            txtCapacidad.Text = "";
-            btnGestionJuegos.BackColor = System.Drawing.Color.LightGreen;
+            Response.Redirect("Atracciones.aspx");
 
         }
     }
