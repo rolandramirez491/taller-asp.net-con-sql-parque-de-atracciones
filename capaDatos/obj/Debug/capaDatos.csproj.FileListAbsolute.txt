@@ -1,0 +1,15 @@
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaDatos\obj\Debug\capaDatos.csproj.Up2Date

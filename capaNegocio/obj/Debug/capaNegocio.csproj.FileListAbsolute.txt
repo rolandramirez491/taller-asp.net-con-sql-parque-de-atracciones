@@ -1,0 +1,18 @@
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaNegocio\obj\Debug\capaNego.836DF9B9.Up2Date
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\jardp\Documents\GitHub\taller-chucho\taller chucho\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaNegocio\obj\Debug\capaNego.836DF9B9.Up2Date
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\rolan\OneDrive\Documentos\GitHub\taller-asp.net-con-sql-parque-de-atracciones\capaNegocio\obj\Debug\capaNegocio.pdb
