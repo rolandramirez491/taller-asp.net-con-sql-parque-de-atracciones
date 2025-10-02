@@ -1,9 +1,5 @@
 ﻿using capaNegocio;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace capaPresentacion
@@ -71,7 +67,7 @@ namespace capaPresentacion
 
         protected void rbtCodJ_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+
             btnGuardarSesion.BackColor = System.Drawing.Color.DarkOrange;
         }
 

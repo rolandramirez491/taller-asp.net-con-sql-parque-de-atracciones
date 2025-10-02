@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
+﻿using capaNegocio;
+using System;
 using System.Web.UI.WebControls;
-using capaNegocio;
 namespace capaPresentacion
 {
     public partial class Atracciones : System.Web.UI.Page
@@ -33,12 +29,12 @@ namespace capaPresentacion
             txtPrecio.Text = "";
             txtCapacidad.Text = "";
 
-                ddlAtracciones.DataSource = Atraccion.ListarA();
-                ddlAtracciones.DataTextField = "NombreA";
-                ddlAtracciones.DataValueField = "CodA";
-                ddlAtracciones.DataBind();
-                ddlAtracciones.Items.Insert(0, new ListItem("--Seleccione Atracción A Buscar--", ""));
-                ddlAtracciones.BackColor = System.Drawing.Color.LightGreen;
+            ddlAtracciones.DataSource = Atraccion.ListarA();
+            ddlAtracciones.DataTextField = "NombreA";
+            ddlAtracciones.DataValueField = "CodA";
+            ddlAtracciones.DataBind();
+            ddlAtracciones.Items.Insert(0, new ListItem("--Seleccione Atracción A Buscar--", ""));
+            ddlAtracciones.BackColor = System.Drawing.Color.LightGreen;
 
 
 
@@ -50,7 +46,7 @@ namespace capaPresentacion
             if (!string.IsNullOrEmpty(ddlAtracciones.SelectedValue))
             {
                 int CodA = int.Parse(ddlAtracciones.SelectedValue);
-                var Busqueda=Atraccion.BuscarA(CodA);
+                var Busqueda = Atraccion.BuscarA(CodA);
                 if (Busqueda != null)
                 {
                     txtCodA.Text = Busqueda["CodA"].ToString();
@@ -60,7 +56,7 @@ namespace capaPresentacion
                     btnActualizar.Visible = true;
                     btnActualizar.BackColor = System.Drawing.Color.BurlyWood;
                     btnGuardarA.Enabled = false;
-                    txtCodA.BackColor= System.Drawing.Color.Cyan;
+                    txtCodA.BackColor = System.Drawing.Color.Cyan;
                     txtNombA.BackColor = System.Drawing.Color.Cyan;
                     txtPrecio.BackColor = System.Drawing.Color.Cyan;
                     txtCapacidad.BackColor = System.Drawing.Color.Cyan;
@@ -70,7 +66,7 @@ namespace capaPresentacion
                     lblCodA.Text = "Atracción no encontrada";
                     ddlAtracciones.BackColor = System.Drawing.Color.Red;
                 }
-                }
+            }
             else
             {
                 lblCodA.Text = "Ninguno seleccionado";
@@ -85,7 +81,7 @@ namespace capaPresentacion
             txtNombA.BackColor = System.Drawing.Color.LightGreen;
             txtPrecio.BackColor = System.Drawing.Color.LightGreen;
             txtCapacidad.BackColor = System.Drawing.Color.LightGreen;
-            btnActualizar.BorderColor= System.Drawing.Color.LightGreen;
+            btnActualizar.BorderColor = System.Drawing.Color.LightGreen;
             Atraccion.ActualizarA(int.Parse(txtCodA.Text), txtNombA.Text, int.Parse(txtPrecio.Text), int.Parse(txtCapacidad.Text));
             txtCodA.Text = "";
             txtNombA.Text = "";

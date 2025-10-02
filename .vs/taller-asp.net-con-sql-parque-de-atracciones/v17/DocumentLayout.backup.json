@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\rolan\\onedrive\\documentos\\github\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\atracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\atracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\rolan\\onedrive\\documentos\\github\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\rolan\\onedrive\\documentos\\github\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\atracciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\atracciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\atracciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -15,12 +15,32 @@
       "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\rolan\\onedrive\\documentos\\github\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\gestionsesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\gestionsesion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\gestionjuego.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\gestionjuego.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\atracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\atracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|c:\\users\\rolan\\onedrive\\documentos\\github\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\gestionsesion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\gestionjuego.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\gestionjuego.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capapresentacion\\gestionjuego.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{0C76D364-A054-4501-ACB6-4B065F693623}|capaPresentacion\\capaPresentacion.csproj|solutionrelative:capapresentacion\\gestionjuego.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5507F72-EDC9-4C3D-A6C5-EAB36CBC3982}|capaDatos\\capaDatos.csproj|C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capadatos\\cd_registroatraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,13 +82,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\Site.Master",
+              "RelativeDocumentMoniker": "capaPresentacion\\Site.Master",
+              "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\Site.Master",
+              "RelativeToolTip": "capaPresentacion\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-02T00:29:01.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Atracciones.aspx.cs",
               "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\Atracciones.aspx.cs",
               "RelativeDocumentMoniker": "capaPresentacion\\Atracciones.aspx.cs",
               "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\Atracciones.aspx.cs",
               "RelativeToolTip": "capaPresentacion\\Atracciones.aspx.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T18:17:17.305Z",
               "EditorCaption": ""
@@ -85,14 +114,14 @@
               "RelativeDocumentMoniker": "capaPresentacion\\Atracciones.aspx",
               "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\Atracciones.aspx",
               "RelativeToolTip": "capaPresentacion\\Atracciones.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-10-01T18:15:35.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\default.aspx.cs",
               "RelativeDocumentMoniker": "capaPresentacion\\default.aspx.cs",
@@ -105,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "GestionSesion.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionSesion.aspx.designer.cs",
               "RelativeDocumentMoniker": "capaPresentacion\\GestionSesion.aspx.designer.cs",
@@ -118,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "GestionJuego.aspx.cs",
               "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionJuego.aspx.cs",
               "RelativeDocumentMoniker": "capaPresentacion\\GestionJuego.aspx.cs",
@@ -131,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "GestionJuego.aspx",
               "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionJuego.aspx",
               "RelativeDocumentMoniker": "capaPresentacion\\GestionJuego.aspx",
@@ -140,32 +169,6 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-10-01T13:29:49.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GestionSesion.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionSesion.aspx.cs",
-              "RelativeDocumentMoniker": "capaPresentacion\\GestionSesion.aspx.cs",
-              "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionSesion.aspx.cs",
-              "RelativeToolTip": "capaPresentacion\\GestionSesion.aspx.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAiwEMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T13:28:02.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GestionSesion.aspx",
-              "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionSesion.aspx",
-              "RelativeDocumentMoniker": "capaPresentacion\\GestionSesion.aspx",
-              "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionSesion.aspx",
-              "RelativeToolTip": "capaPresentacion\\GestionSesion.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-01T13:27:56.659Z",
               "EditorCaption": ""
             },
             {
@@ -183,7 +186,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestionSesion.aspx",
+              "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionSesion.aspx",
+              "RelativeDocumentMoniker": "capaPresentacion\\GestionSesion.aspx",
+              "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionSesion.aspx",
+              "RelativeToolTip": "capaPresentacion\\GestionSesion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-01T13:27:56.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\styles.css",
+              "RelativeDocumentMoniker": "capaPresentacion\\styles.css",
+              "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\styles.css",
+              "RelativeToolTip": "capaPresentacion\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-02T00:44:48.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "capaPresentacion\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\WebForm1.aspx",
+              "RelativeToolTip": "capaPresentacion\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-02T00:29:15.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\Web.config",
+              "RelativeDocumentMoniker": "capaPresentacion\\Web.config",
+              "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\Web.config",
+              "RelativeToolTip": "capaPresentacion\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-02T00:32:49.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestionSesion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionSesion.aspx.cs",
+              "RelativeDocumentMoniker": "capaPresentacion\\GestionSesion.aspx.cs",
+              "ToolTip": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionSesion.aspx.cs",
+              "RelativeToolTip": "capaPresentacion\\GestionSesion.aspx.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:28:02.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CD_RegistroAtraccion.cs",
               "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaDatos\\CD_RegistroAtraccion.cs",
               "RelativeDocumentMoniker": "capaDatos\\CD_RegistroAtraccion.cs",
@@ -196,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "CN_RegistroAtraccion.cs",
               "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaNegocio\\CN_RegistroAtraccion.cs",
               "RelativeDocumentMoniker": "capaNegocio\\CN_RegistroAtraccion.cs",
@@ -209,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "GestionJuego.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\rolan\\OneDrive\\Documentos\\GitHub\\taller-asp.net-con-sql-parque-de-atracciones\\capaPresentacion\\GestionJuego.aspx.designer.cs",
               "RelativeDocumentMoniker": "capaPresentacion\\GestionJuego.aspx.designer.cs",

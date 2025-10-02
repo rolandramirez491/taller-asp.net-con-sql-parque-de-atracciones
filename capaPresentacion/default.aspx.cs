@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Services.Description;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using capaNegocio;
+﻿using capaNegocio;
+using System;
 namespace capaPresentacion
 {
     public partial class _default : System.Web.UI.Page
@@ -29,7 +23,7 @@ namespace capaPresentacion
 
         protected void btnGestionVentas_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         //protected void btnListarVentas_Click(object sender, EventArgs e)
