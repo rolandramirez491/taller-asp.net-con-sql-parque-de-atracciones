@@ -24,9 +24,9 @@ namespace capaPresentacion
                 ddlCodJ.Items.Insert(0, new ListItem("--Seleccione Juego--", ""));
             }
         }
-        CN_RegistroAtraccion Atraccion = new CN_RegistroAtraccion();
-        CN_RegistroAtraccion Juego = new CN_RegistroAtraccion();
-        CN_RegistroAtraccion Sesion = new CN_RegistroAtraccion();
+        CN_RegistroAgricola Atraccion = new CN_RegistroAgricola();
+        CN_RegistroAgricola Juego = new CN_RegistroAgricola();
+        CN_RegistroAgricola Sesion = new CN_RegistroAgricola();
 
 
 

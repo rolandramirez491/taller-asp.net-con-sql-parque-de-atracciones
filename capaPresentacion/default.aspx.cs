@@ -8,8 +8,8 @@ namespace capaPresentacion
         {
 
         }
-        CN_RegistroAtraccion Atraccion = new CN_RegistroAtraccion();
-        CN_RegistroAtraccion registro = new CN_RegistroAtraccion();
+        CN_RegistroAgricola Atraccion = new CN_RegistroAgricola();
+        CN_RegistroAgricola registro = new CN_RegistroAgricola();
         //protected void btnGuardar_Click(object sender, EventArgs e)
         //{
         //    registro.Guardar(int.Parse(txtId.Text), txtNomb.Text, txtApell.Text, int.Parse(txtTel.Text));

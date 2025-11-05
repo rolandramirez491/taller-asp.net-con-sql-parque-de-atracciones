@@ -9,7 +9,7 @@ namespace capaPresentacion
         {
 
         }
-        CN_RegistroAtraccion Atraccion = new CN_RegistroAtraccion();
+        CN_RegistroAgricola Atraccion = new CN_RegistroAgricola();
         protected void btnGuardarA_Click(object sender, EventArgs e)
         {
             Atraccion.InsertarA(int.Parse(txtCodA.Text), txtNombA.Text, int.Parse(txtPrecio.Text), int.Parse(txtCapacidad.Text));

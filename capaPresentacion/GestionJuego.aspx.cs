@@ -8,7 +8,7 @@ namespace capaPresentacion
         {
 
         }
-        CN_RegistroAtraccion Juego = new CN_RegistroAtraccion();
+        CN_RegistroAgricola Juego = new CN_RegistroAgricola();
         //CN_RegistroAtraccion registro = new CN_RegistroAtraccion();
         //CN_RegistroAtraccion ventas = new CN_RegistroAtraccion();
         //protected void btnBuscar_Click(object sender, EventArgs e)
